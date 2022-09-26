@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    background-color: rgb(253, 236, 239);
+    font-size:  16px;
+    font-weight: normal;
+    font-family:'Roboto', sans-serif;  ;
+}
+
+
+.ava{
+   width: 200px;
+   border-radius: 50% ;
+   
+}
+
+.social {
+    text-align: center;
+    background-color: rgb(246, 123, 236);
+    border-radius: 10px;
+}
+.tel {
+    text-align: center;
+    background-color: rgb(42, 203, 48);
+    border-radius: 10px;
+    font-weight: normal;
+}
+  
+.bloc {
+    max-width: 750px;
+    margin: auto;
+}
